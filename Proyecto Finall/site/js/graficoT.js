@@ -1,4 +1,4 @@
-const label = ['Total de consumo de energias Renovables','Total del consmo de energia hidraulica']
+const label = ['Total de consumo de energías Renovables','Total del consumo de energía hidráulica']
 const colors = ['rgb(69,177,223)', 'rgb(99,201,122)'];
 
 const graph2 = document.querySelector("#grafica2");
